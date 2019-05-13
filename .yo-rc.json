@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.muhacha.bugtracker",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "BugTrackerJHipster",
+        "packageName": "com.muhacha.bugtracker",
+        "packageFolder": "com/muhacha/bugtracker",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NWQxZjIxYTM4NDJlM2FlOTQ4YzQ5MTY1MjU4YmM4NTFmYTM4ZmQwOTU3NmY5MmY4NzY1NTY0MDQ0YTI3ZWEzMmRiZjMzOTBkNGY1OGEyYTNkMDhhNzhlNzVjNjI4ZTNlZDQxYzZiMDNhMDQ1MzY2ZDhiY2ViYWIyNGQ5ZDRmYjM=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling", "cucumber", "protractor"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
